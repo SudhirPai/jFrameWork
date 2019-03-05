@@ -1,0 +1,12 @@
+package Mark1.FrameWork1;
+
+public class uslessClass {
+
+	public void football()
+	{
+		// Who will win the match PSG or Man Utd.
+		
+//Ans: MUFC
+		
+	}
+}
